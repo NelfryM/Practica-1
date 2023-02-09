@@ -1,0 +1,8 @@
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\bin\Debug\DesglosadorDeBilletes.exe.config
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\bin\Debug\DesglosadorDeBilletes.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\bin\Debug\DesglosadorDeBilletes.pdb
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\obj\Debug\DesglosadorDeBilletes.csproj.AssemblyReference.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\obj\Debug\DesglosadorDeBilletes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\obj\Debug\DesglosadorDeBilletes.csproj.CoreCompileInputs.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\obj\Debug\DesglosadorDeBilletes.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\DesglosadorDeBilletes\DesglosadorDeBilletes\obj\Debug\DesglosadorDeBilletes.pdb
