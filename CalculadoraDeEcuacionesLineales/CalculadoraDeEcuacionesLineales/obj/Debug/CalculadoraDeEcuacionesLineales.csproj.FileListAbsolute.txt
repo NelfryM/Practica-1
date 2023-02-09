@@ -1,0 +1,8 @@
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\bin\Debug\CalculadoraDeEcuacionesLineales.exe.config
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\bin\Debug\CalculadoraDeEcuacionesLineales.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\bin\Debug\CalculadoraDeEcuacionesLineales.pdb
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\obj\Debug\CalculadoraDeEcuacionesLineales.csproj.AssemblyReference.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\obj\Debug\CalculadoraDeEcuacionesLineales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\obj\Debug\CalculadoraDeEcuacionesLineales.csproj.CoreCompileInputs.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\obj\Debug\CalculadoraDeEcuacionesLineales.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculadoraDeEcuacionesLineales\CalculadoraDeEcuacionesLineales\obj\Debug\CalculadoraDeEcuacionesLineales.pdb

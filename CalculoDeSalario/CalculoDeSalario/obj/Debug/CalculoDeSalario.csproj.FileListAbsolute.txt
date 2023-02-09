@@ -1,0 +1,8 @@
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe.config
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\bin\Debug\CalculoDeSalario.pdb
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.csproj.AssemblyReference.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\CalculoDeSalario\CalculoDeSalario\obj\Debug\CalculoDeSalario.pdb
